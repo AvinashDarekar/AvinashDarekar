@@ -17,7 +17,7 @@ Feel free to reach out to me if you have interesting projects or opportunities!
 
 ## Connect with Me
 
-- LinkedIn: [linkedin.com/in/avinashdarekar](www.linkedin.com/in/avinash-darekar)
+- LinkedIn: [linkedin.com/in/avinash-darekar](www.linkedin.com/in/avinash-darekar)
 - GitHub: [github.com/AvinashDarekar](https://github.com/AvinashDarekar)
 
 ## 📫 How to Reach Me
