@@ -1,10 +1,10 @@
 # Avinash Darekar - Data Science Enthusiast
 
-👋 Hi, I'm Avinash Darekar, currently pursuing a Master's in Data Science (PB). I am passionate about leveraging data to derive meaningful insights and am actively seeking freelancing opportunities in machine learning, python, tableau, MySQL, and AI.
+👋 Hi, I'm Avinash Darekar, currently pursuing a Master's in Data Science (PB). a passionate Data Science enthusiast with a 9 year strong background in investment banking and capital markets. I am currently working as an Associate Process Manager at Eclerx Services Ltd, Pune, India. In my role, I specialize in reconciling, confirming/affirming, and matching OTC trades. My experience extends to working on OTC Derivatives, Ops & MO Reporting, Equity Swaps (CFD), Futures & Options, FX T0, Hedge Funds, FI Bond, Product lifecycle checks, SQL Database, and Tableau Viz also i am passionate about leveraging data to derive meaningful insights and am actively seeking freelancing opportunities in machine learning, python, tableau, MySQL, and AI.
 
 ## About Me
 
-- 💼 **Currently:** Master's in Data Science (PB)
+- 💼 **Currently:**  Associate Process Manager at Eclerx Services Ltd, Pune, India  
 - 🌱 **Learning:** Always exploring new concepts and technologies in the field of data science.
 - 👀 **Interests:** Machine Learning, Python, Tableau, MySQL, AI
 
@@ -17,7 +17,7 @@ Feel free to reach out to me if you have interesting projects or opportunities!
 
 ## Connect with Me
 
-- LinkedIn: [www.linkedin.com/in/avinash-darekar](www.linkedin.com/in/avinash-darekar)
+- LinkedIn: www.linkedin.com/in/avinash-darekar
 - GitHub: [github.com/AvinashDarekar](https://github.com/AvinashDarekar)
 
 ## 📫 How to Reach Me
