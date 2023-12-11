@@ -12,7 +12,7 @@
 
 Feel free to reach out to me if you have interesting projects or opportunities!
 
-- 📧 **Email:** darekar64@gmail.com
+- 📧 **Email:** Avinashdarekar1@gmail.com
 - 📱 **Phone:** +91 9970459648
 
 ## Connect with Me
