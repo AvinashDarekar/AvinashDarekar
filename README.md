@@ -20,7 +20,8 @@ Feel free to reach out to me if you have interesting projects or opportunities!
 - LinkedIn: www.linkedin.com/in/avinash-darekar
 - GitHub: [github.com/AvinashDarekar](https://github.com/AvinashDarekar)
 
-sklearn iconScikit Learn
+![image](https://github.com/AvinashDarekar/AvinashDarekar/assets/142386732/af17ace7-299b-47e4-996e-86168aa53990)
+
 ## 📫 How to Reach Me
 
 If you're interested in collaborating or have a project in mind, please don't hesitate to get in touch. I'm excited to explore new opportunities and contribute to innovative projects in the world of data science!
