@@ -20,7 +20,9 @@ Feel free to reach out to me if you have interesting projects or opportunities!
 - LinkedIn: www.linkedin.com/in/avinash-darekar
 - GitHub: [github.com/AvinashDarekar](https://github.com/AvinashDarekar)
 
-https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png
+## Languages and Tools:
+
+mysql, pandas, python, scikit_learn, seaborn, public tableau, Microsoft Excel, matplotlib
 
 ## 📫 How to Reach Me
 
