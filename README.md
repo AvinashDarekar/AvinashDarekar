@@ -17,9 +17,8 @@ Feel free to reach out to me if you have interesting projects or opportunities!
 
 ## Connect with Me
 
-- LinkedIn: www.linkedin.com/in/avinash-darekar  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/avinash-darekar)
-
-- GitHub: [github.com/AvinashDarekar](https://github.com/AvinashDarekar) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinashDarekar)
+- LinkedIn: www.linkedin.com/in/avinash-darekar 
+- GitHub: [github.com/AvinashDarekar](https://github.com/AvinashDarekar) 
 
 
 ## Languages and Tools: 
