@@ -20,9 +20,8 @@ Feel free to reach out to me if you have interesting projects or opportunities!
 - LinkedIn: www.linkedin.com/in/avinash-darekar
 - GitHub: [github.com/AvinashDarekar](https://github.com/AvinashDarekar)
 
-## Languages and Tools:
-
-mysql, ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), python, scikit_learn, seaborn, public tableau, Microsoft Excel, matplotlib
+## Languages and Tools: 
+mysql,[![Pandas Icon](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/), python, scikit_learn, seaborn, public tableau, Microsoft Excel, matplotlib
 
 ## 📫 How to Reach Me
 
