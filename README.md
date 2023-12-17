@@ -22,7 +22,8 @@ Feel free to reach out to me if you have interesting projects or opportunities!
 
 ## Languages and Tools: 
 
-[![MySQL Logo](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/),[![Pandas Icon](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/), python, scikit_learn, seaborn, public tableau, Microsoft Excel, matplotlib
+[![MySQL Logo](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/),[![Pandas Icon](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/), [![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)](https://www.pythonanywhere.com/)
+, scikit_learn, seaborn, public tableau, Microsoft Excel, matplotlib
 
 ## 📫 How to Reach Me
 
