@@ -22,7 +22,7 @@ Feel free to reach out to me if you have interesting projects or opportunities!
 
 ## Languages and Tools:
 
-mysql, pandas, python, scikit_learn, seaborn, public tableau, Microsoft Excel, matplotlib
+mysql, ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white), python, scikit_learn, seaborn, public tableau, Microsoft Excel, matplotlib
 
 ## 📫 How to Reach Me
 
